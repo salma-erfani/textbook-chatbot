@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+.vscode/
+
+# Conda
+envs/
+.env/
+.conda/
+conda-env/
+*.conda
+miniconda/
+anaconda/
+
+# FastAPI
+instance/
+.webassets-cache
